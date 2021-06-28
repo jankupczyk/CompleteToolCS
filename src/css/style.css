@@ -1,0 +1,166 @@
+@font-face {
+    font-family: csfont;
+    src: url(../../public/assets/fonts/cs_regular.ttf);
+}
+
+body {
+    margin: 0 auto;
+    background-image: url(../../public/assets/photos/webp/bkg.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #2b3b43;
+}
+
+h1 {
+    text-align: center;
+    font-family: csfont;
+    color: #e6e6e4;
+}
+
+h2 {
+    text-align: center;
+    font-family: csfont;
+    color: #e6e6e4;
+}
+
+p {
+    text-align: center;
+    color: #e6e6e4;
+}
+
+label {
+    font-family: csfont;
+    font-size: 20px;
+}
+
+.wrapper {
+    margin: 0px auto;
+}
+
+.inp {
+    color: #ffffff;
+    background-color: #2b3b43;
+    width: 143px;
+    padding: 5px 10px 5px 10px;
+    height: 15px;
+    border: 0px solid #888a8b;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    vertical-align: text-bottom;
+    font-family: 'Noto Sans', Calibri, Sanserif;
+}
+
+.slt {
+    color: #ffffff;
+    background-color: #2b3b43;
+    width: 143px;
+    padding: 5px 10px 5px 10px;
+    height: 25px;
+    border: 0px solid #888a8b;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    vertical-align: text-bottom;
+    font-family: 'Noto Sans', Calibri, Sanserif;
+}
+
+.cp {
+    font-size: 15px;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    line-height: 15px;
+    color: #fff;
+    width: 60px;
+    height: 25px;
+    background: linear-gradient(#1d7751, #0e382c);
+    border: 2px #25793b solid;
+    border-radius: 5px;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+    transition: 0.1s ease-in;
+    transform: scale(1);
+    cursor: pointer;
+    box-shadow: 0 0 60px rgba(0, 117, 9, 0.5);
+    overflow: hidden;
+}
+
+.cp:hover {
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    transform: scale(1.15);
+}
+
+.cp:active {
+    background: linear-gradient(#1f8258, #114435);
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    transform: scale(1);
+    box-shadow: 0 0 75px rgba(43, 137, 68, 0.5);
+}
+
+.cp:after {
+    content: "";
+    position: relative;
+    top: -55px;
+    left: -90px;
+    display: block;
+    width: 60px;
+    height: 25px;
+    background: rgba(255, 255, 255, 0.5);
+    transform: rotate(35deg);
+    filter: blur(20px);
+    transition: none;
+}
+
+.cp:hover:after {
+    left: 50px;
+    transition: .3s ease-in-out;
+}
+
+.desh{
+    color: white;
+    font-size: 23px;
+}
+
+.desh>a{
+    color: black;
+    text-decoration: underline;
+}
+
+.red {
+    color: red;
+}
+
+.gold {
+    color: #eda338;
+}
+
+.pinkish {
+    color: #ba68c8;
+}
+
+.yellow {
+    color: #e6f13d;
+}
+
+.white {
+    color: aliceblue;
+}
+
+.db {
+    color: #00008B;
+}
+
+.lb {
+    color: #68a3e5;
+}
+
+.gd {
+    color: #00C301;
+}
+
+.go {
+    color: #4DED30;
+}
+
+.gl {
+    color: #95F985;
+}

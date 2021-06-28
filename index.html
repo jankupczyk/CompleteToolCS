@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="keywords" content="csgo, troll, binds, generator, trolling">
+    <meta name="author" content="ZAKHAEV">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="src/css/style.css">
+
+    <link rel="icon" type="image/png" sizes="16x16" href="public/assets/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="public/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="public/assets/favicon/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="public/assets/favicon/android-chrome-512x512.png">
+
+    <title>CS:GO Message Generator</title>
+</head>
+
+<body>
+    <script src="src/js/index.js"></script>
+
+    <h1>CS:GO MESSAGE GENERATOR</h1>
+    <br>
+    <div class="wrapper">
+        <div class="container">
+            <div class="center">
+                <h2>Bind settings</h2>
+                <p>
+                    <label for="name">Nickname: </label>
+                    <input id="name" type="text" value="Jane Doe" placeholder="Write your nickname" class="inp">
+                </p>
+
+                <p>
+                    <label for="item">Item: </label>
+                    <input id="item" type="text" value="M9 Bayonet" class="inp">
+
+                </p>
+
+
+                <p>
+                    <label for="paintkit">Paint kit: </label>
+                    <input id="paintkit" type="text" value="Tiger Tooth" class="inp">
+
+                </p>
+
+                <p>
+                    <label for="rarity">Rarity: </label>
+
+                    <select id="rarity" class="slt">
+                        <option value="0x07" selected class="red">Covert (red)</option>
+                        <option value="0x10" class="gold">Exceedingly Rare ★ (gold)</option>
+                        <option value="0x0E" class="pinkish">Classified (pinkish purple)</option>
+                        <option value="0x0C" class="db">Mil-Spec (darker blue)</option>
+                        <option value="0x0B" class="lb">Industrial grade (light blue)</option>
+                        <option value="0x0A" class="white">Consumer grade (white)</option>
+                        <option value="0x03" class="yellow">Chat color (normal yellow)</option>
+                        <option value="0x04" class="gd">Green (darker)</option>
+                        <option value="0x06" class="go">Green (orginal)</option>
+                        <option value="0x05" class="gl">Green (light)</option>
+                    </select>
+
+                </p>
+
+                <p>
+                    <input id="starred" type="checkbox" value="Player" checked>
+                    <label for="starred">Knife and gloves only (adds ★)</label>
+
+                </p>
+
+                <p>
+                    <input id="stattrak" type="checkbox" value="Player" checked>
+                    <label for="stattrak">Apply StatTrack&trade;?</label>
+                </p>
+
+                <p>
+                    <input id="end" type="text" placeholder="OUTPUT" style="text-align: center;" class="inp">
+                    <input id="vacc" type="text" placeholder="VAC" style="text-align: center;" class="inp">
+                    <br><br>
+                    <button onclick="copyoutput()" class="cp">Copy</button>
+                    <button onclick="resetoutput()" class="cp">Reset</button>
+
+                    <button onclick="VAC()" class="cp">VAC ms</button>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="wrapper">
+        <div class="container">
+            <div class="center">
+                <br><br><br><br>
+                <p class="desh">If you found this generator helpful, consider awarding me on <a
+                        href="https://steamcommunity.com/profiles/76561198175873030/" target="_blank"
+                        rel="noopener noreferrer nofollw">steam</a> or donating some skins </p>
+                <p class="desh">Created with ❤️ by &copy;<a href="https://github.com/jankupczyk" target="_blank"
+                        rel="noopener noreferrer nofollw">JK</a> &bullet;2021</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
