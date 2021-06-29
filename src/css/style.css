@@ -115,14 +115,20 @@ label {
     transition: .3s ease-in-out;
 }
 
-.desh{
+.desh {
     color: white;
     font-size: 23px;
 }
 
-.desh>a{
+.desh>a {
     color: black;
     text-decoration: underline;
+}
+
+.ufc{
+    color: black;
+    font-size: 17px;
+    font-family: csfont;
 }
 
 .red {
@@ -142,7 +148,7 @@ label {
 }
 
 .white {
-    color: aliceblue;
+    color: #f0f8ff;
 }
 
 .db {
@@ -163,4 +169,16 @@ label {
 
 .gl {
     color: #95F985;
+}
+
+.rl {
+    color: #eb4b4b;
+}
+
+.rp {
+    color: #ff0000;
+}
+
+.ct {
+    color: #c1c6cc;
 }
