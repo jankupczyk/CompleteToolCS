@@ -28,4 +28,18 @@ const VAC = () => {
 const resetoutput = () => {
     document.getElementById("end").value = '';
     document.getElementById("vacc").value = '';
+    document.getElementById("textar").value = '';
+    document.getElementById("endtextinp").value = '';
+};
+
+const copytext = () => {
+    let rarity = String.fromCharCode(eval(document.getElementById("colorpalette").value));
+    let textarea = document.getElementById("textar").value;
+
+    let end = document.getElementById("endtextinp");
+    end.value =
+        `playerradio Radio.WePlanted " ${rarity}${textarea}"`;
+    end.select();
+    end.setSelectionRange(0, end.value.length)
+    document.execCommand("copy");
 };

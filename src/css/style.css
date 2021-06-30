@@ -51,6 +51,20 @@ label {
     font-family: 'Noto Sans', Calibri, Sanserif;
 }
 
+.inptxt {
+    color: #ffffff;
+    background-color: #2b3b43;
+    width: 143px;
+    padding: 5px 10px 5px 10px;
+    height: 20px;
+    border: 0px solid #888a8b;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    vertical-align: text-bottom;
+    font-family: 'Noto Sans', Calibri, Sanserif;
+}
+
 .slt {
     color: #ffffff;
     background-color: #2b3b43;
@@ -125,9 +139,9 @@ label {
     text-decoration: underline;
 }
 
-.ufc{
+.ufc {
     color: black;
-    font-size: 17px;
+    font-size: 15px;
     font-family: csfont;
 }
 
@@ -140,11 +154,11 @@ label {
 }
 
 .pinkish {
-    color: #ba68c8;
+    color: #9e1ead;
 }
 
 .yellow {
-    color: #e6f13d;
+    color: #ffdf93;
 }
 
 .white {
