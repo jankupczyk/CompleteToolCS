@@ -47,6 +47,33 @@ Includes:
 
 #### RADIO COMMANDS
 
+
+| MAIN COMMAND      | ACTION        |
+|:-----------------:|:-------------:|
+|                   |               |
+|                   |               |
+|                   |               |
+|                   |               |
+|                   |               |
+|                   |               |
+|                   |               |
+|                   |               |
+
+
+
+
+
+
+
+
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ```playerradio DeathCry Ooooo!``` - ```playerradio``` (main command), ```DeathCry``` (Action), ```Ooooo!``` (Random text)
 
 ```Command``` &nbsp; ```Action ``` &nbsp; ```Displayed text```
