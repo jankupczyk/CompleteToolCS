@@ -3,7 +3,7 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 ---
 
 
-##COMMANDS
+#### H4COMMANDS
 
 ```playerradio Radio.WePlanted``` - the main part of most of the commands required for the message working
 
