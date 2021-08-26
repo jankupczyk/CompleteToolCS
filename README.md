@@ -3,15 +3,15 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 ---
 
 
-###MANUAL
+##COMMANDS
 
 ```playerradio Radio.WePlanted``` - the main part of most of the commands required for the message working
 
 
-###COLORS
+##COLORS
 
-| Tables        | Are           | Cool  |
+| VALUE         | Color         | Name  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| 0x07          | RED           | Covert|
+| 0x10          | GOLD          | Exceedingly Rare ★ |
+| zebra stripes | are neat      |    $1 | 
