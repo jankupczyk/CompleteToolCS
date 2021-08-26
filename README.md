@@ -48,7 +48,8 @@ Includes:
 #### RADIO COMMANDS
 
 ```playerradio DeathCry Ooooo!``` - ```playerradio``` (main command), ```DeathCry``` (Action), ```Ooooo!``` (Random text)
-```Command Action Displayed text```
+
+```Command``` ```Action ``` ```Displayed text```
 
 For example:
 
