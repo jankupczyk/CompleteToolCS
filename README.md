@@ -7,12 +7,10 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 
 ```playerradio Radio.WePlanted``` - the main part of most of the commands required for the message working
 
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
 
 #### COLORS
 
@@ -34,9 +32,10 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 | NaN           | 0                | 0                | 
 
 
-
-
-
+<br />
+<br />
+<br />
+<br />
 
 
 #### RADIO COMMANDS
