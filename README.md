@@ -28,3 +28,7 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 | NaN           | 0                | 0                | 
 
 
+#### RADIO COMMANDS
+
+
+
