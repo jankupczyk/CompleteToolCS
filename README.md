@@ -49,7 +49,7 @@ Includes:
 
 ```playerradio DeathCry Ooooo!``` - ```playerradio``` (main command), ```DeathCry``` (Action), ```Ooooo!``` (Random text)
 
-```Command``` ```Action ```  ```Displayed text```
+```Command``` &nbsp; ```Action ``` &nbsp; ```Displayed text```
 
 For example:
 
