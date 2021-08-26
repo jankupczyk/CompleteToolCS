@@ -12,9 +12,7 @@ Includes:
 
 ```playerradio``` - the main part of most of the commands required for the message working
 
-```Radio.WePlanted``` - the main part of radio commands
-
-```Radio.WePlanted``` - The main part of chat commands
+```Radio.WePlanted``` - the main part of chat commands
 
 <br />
 <br />
