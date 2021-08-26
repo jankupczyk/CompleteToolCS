@@ -63,16 +63,15 @@ Includes:
 | playerradio       | ThreeEnemiesLeft                |
 | playerradio       | PinnedDown                      |
 
-
-<br />
-<br />
-<br />
 <br />
 <br />
 
 ```playerradio DeathCry Ooooo!``` - ```playerradio``` (main command), ```DeathCry``` (Action), ```Ooooo!``` (Random text)
 
 ```Command``` &nbsp; ```Action ``` &nbsp; ```Displayed text```
+
+<br />
+<br />
 
 For example:
 
