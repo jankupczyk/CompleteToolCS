@@ -53,4 +53,5 @@ For example:
 
 * ```playerradio DeathCry Hello```
 * ```playerradio PinnedDown helpppp```
+* ```playerradio ScaredEmote wrrrrr```
 
