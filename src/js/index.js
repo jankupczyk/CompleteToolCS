@@ -12,6 +12,8 @@ const copyoutput = () => {
     input.select();
     input.setSelectionRange(0, input.value.length)
     document.execCommand("copy");
+    document.getElementById("copied").innerHTML = 'Copied';
+    document.getElementById("command").innerHTML = `Latest copied: ${input.value}`;
 };
 
 const VAC = () => {
@@ -23,6 +25,8 @@ const VAC = () => {
     VAC.select();
     VAC.setSelectionRange(0, VAC.value.length)
     document.execCommand("copy");
+    document.getElementById("copied2").innerHTML = 'Copied';
+    document.getElementById("command").innerHTML = `Latest copied: ${VAC.value}`;
 };
 
 const resetoutput = () => {
@@ -30,6 +34,11 @@ const resetoutput = () => {
     document.getElementById("vacc").value = '';
     document.getElementById("textar").value = '';
     document.getElementById("endtextinp").value = '';
+    document.getElementById("radiocom").value = '';
+    document.getElementById("copied").innerHTML = '';
+    document.getElementById("copied2").innerHTML = '';
+    document.getElementById("copied3").innerHTML = '';
+    document.getElementById("copied4").innerHTML = '';
 };
 
 const copytext = () => {
@@ -42,4 +51,18 @@ const copytext = () => {
     end.select();
     end.setSelectionRange(0, end.value.length)
     document.execCommand("copy");
+    document.getElementById("copied3").innerHTML = 'Copied';
+    document.getElementById("command").innerHTML = `Latest copied: ${end.value}`;
+};
+
+const radio = () => {
+    let commandradio = document.getElementById('radiopalette').selectedOptions[0].value;
+
+    let radioend = document.getElementById("radiocom");
+    radioend.value = `${commandradio}`;
+    radioend.select();
+    radioend.setSelectionRange(0, radioend.value.length)
+    document.execCommand("copy");
+    document.getElementById("copied4").innerHTML = 'Copied';
+    document.getElementById("command").innerHTML = `Latest copied: ${radioend.value}`;
 };

@@ -64,12 +64,41 @@ label {
     font-family: 'Noto Sans', Calibri, Sanserif;
 }
 
+.copied-cl{
+    color: rgb(191, 21, 21);
+    font-size: 14px;
+}
+
+.command-wrapper-div{
+    display: flex;
+    text-align: center;
+}
+
+.command-cl{
+    width: 100%;
+    height: 25px;
+}
+
 .slt {
     color: #ffffff;
     background-color: #2b3b43;
     width: 143px;
     padding: 5px 10px 5px 10px;
     height: 25px;
+    border: 0px solid #888a8b;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    vertical-align: text-bottom;
+    font-family: 'Noto Sans', Calibri, Sanserif;
+}
+
+.sltr {
+    color: #ffffff;
+    background-color: #2b3b43;
+    width: 143px;
+    padding: 5px 10px 5px 10px;
+    height: 30px;
     border: 0px solid #888a8b;
     -moz-border-radius: 2px;
     -webkit-border-radius: 2px;

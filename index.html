@@ -76,31 +76,60 @@
 
                 <p>
                     <input id="stattrak" type="checkbox" value="Player" checked>
-                    <label for="stattrak">Apply StatTrack&trade;?</label>
+                    <label for="stattrak">Apply StatTrack&trade;</label>
                 </p>
 
                 <p>
                     <input id="end" type="text" placeholder="OUTPUT" style="text-align: center;" class="inp">
-                    <br><br>
+                    <br>
+                    <span class="copied-cl" id="copied"></span>
+                    <br>
                     <button onclick="copyoutput()" class="cp">Copy</button>
                     <button onclick="resetoutput()" class="cp">Reset</button>
-
                 </p>
-                <br><br>
-
+                <br>
                 <h2>Fake VAC message</h2>
                 <p><input id="vacc" type="text" placeholder="VAC MESSAGE" style="text-align: center;" class="inp">
-                    <br><br>
+                    <br>
+                    <span class="copied-cl" id="copied2"></span>
+                    <br>
                     <button onclick="VAC()" class="cp">Copy</button>
                     <button onclick="resetoutput()" class="cp">Reset</button>
                 </p>
+                <br>
+                <h2>Radio binds</h2>
+                <p>
+                    <input id="radiocom" type="text" placeholder="OUTPUT" style="text-align: center;" class="inp">
+                    <br>
+                    <select id="radiopalette" class="sltr">
+                        <option value="NaN" disabled class="ufc">OFFICIAL COMMANDS</option>
+                        <option value="playerradio SniperWarning sniper">Sniper Warning</option>
+                        <option value="playerradio SpottedBomber spotted">Spotted Bomber</option>
+                        <option value="playerradio DeathCry Ooooo!">Moann!!!</option>
+                        <option value="playerradio KilledMyEnemy killed">Killed Enemy</option>
+                        <option value="playerradio SpottedLooseBomb loose">Loose Bomb (spotted)</option>
+                        <option value="playerradio GoingToGuardLooseBomb loose">Loose Bomb (going)</option>
+                        <option value="playerradio WaitingForHumanToDefuseBomb defuse...">Defuse Bomb</option>
+                        <option value="playerradio ScaredEmote wrrrrr">Scared</option>
+                        <option value="playerradio OneEnemyLeft One">One enemy left</option>
+                        <option value="playerradio TwoEnemiesLeft Two">Two enemy left</option>
+                        <option value="playerradio ThreeEnemiesLeft Three">Three enemy left</option>
+                        <option value="playerradio PinnedDown ...">Pinned Down</option>
+                    </select>
+                    <br>
+                    <span class="copied-cl" id="copied4"></span>
+                    <br>
+                    <button onclick="radio()" class="cp">Copy</button>
+                    <button onclick="resetoutput()" class="cp">Reset</button>
+                </p>
+
                 <br>
                 <h2>Colorful text</h2>
                 <p><textarea name="textar" id="textar" cols="55" rows="250" class="inptxt"
                         placeholder="Write your text here"></textarea>
                     <br>
                     <input id="endtextinp" type="text" placeholder="OUTPUT" style="text-align: center;" class="inp">
-                    <br><br>
+                    <br>
                     <select id="colorpalette" class="slt">
                         <option value="NaN" disabled class="ufc">OFFICIAL COLORS</option>
                         <option value="0x07" selected class="red">Covert (red)</option>
@@ -118,14 +147,19 @@
                         <option value="0x02" class="rp">Red (pure)</option>
                         <option value="0x08" class="ct">CT (Grey)</option>
                     </select>
-                    <br><br>
+                    <br>
+                    <span class="copied-cl" id="copied3"></span>
+                    <br>
                     <button onclick="copytext()" class="cp">Copy</button>
                     <button onclick="resetoutput()" class="cp">Reset</button>
                 </p>
             </div>
         </div>
     </div>
-
+    <br>
+    <div class="command-wrapper-div">
+        <span class="command-cl" id="command" style="text-align: center;"></span>
+    </div>
     <div class="wrapper">
         <div class="container">
             <div class="center">
