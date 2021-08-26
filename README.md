@@ -8,6 +8,12 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 ```playerradio Radio.WePlanted``` - the main part of most of the commands required for the message working
 
 
+
+
+
+
+
+
 #### COLORS
 
 | VALUE         | Color            | Rarity           |
@@ -26,6 +32,11 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 | 0x02          | Pure red         | Red              |
 | 0x08          | Grey             | CT               |
 | NaN           | 0                | 0                | 
+
+
+
+
+
 
 
 #### RADIO COMMANDS
