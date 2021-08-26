@@ -48,16 +48,22 @@ Includes:
 #### RADIO COMMANDS
 
 
-| MAIN COMMAND      | ACTION        |
-|:-----------------:|:-------------:|
-|                   |               |
-|                   |               |
-|                   |               |
-|                   |               |
-|                   |               |
-|                   |               |
-|                   |               |
-|                   |               |
+| MAIN COMMAND      | ACTION                          |
+|:-----------------:|:-------------------------------:|
+| playerradio       | SniperWarning                   |
+| playerradio       | SpottedBomber                   |
+| playerradio       | DeathCry                        |
+| playerradio       | KilledMyEnemy                   |
+| playerradio       | SpottedLooseBomb                |
+| playerradio       | GoingToGuardLooseBomb           |
+| playerradio       | WaitingForHumanToDefuseBomb     |
+| playerradio       | ScaredEmote                     |
+| playerradio       | ScaredEmote                     |
+| playerradio       | ScaredEmote                     |
+| playerradio       | ScaredEmote                     |
+| playerradio       | ScaredEmote                     |
+| playerradio       | ScaredEmote                     |
+| playerradio       | ScaredEmote                     |
 
 
 
