@@ -3,12 +3,12 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 ---
 
 
-#### H4COMMANDS
+#### COMMANDS
 
 ```playerradio Radio.WePlanted``` - the main part of most of the commands required for the message working
 
 
-##COLORS
+#### COLORS
 
 | VALUE         | Color            | Rarity           |
 | ------------- |:----------------:| :---------------:|
