@@ -10,9 +10,11 @@ Includes:
 
 #### COMMANDS
 
-```playerradio Radio.WePlanted``` - the main part of most of the commands required for the message working
+```playerradio``` - the main part of most of the commands required for the message working
 
-```playerradio``` - the main part of radio commands
+```Radio.WePlanted``` - the main part of radio commands
+
+```Radio.WePlanted``` - The main part of chat commands
 
 <br />
 <br />
