@@ -56,7 +56,7 @@ For example:
 * ```playerradio DeathCry Hello```
 <br />
 
-![CS-GO-Message-Generator](img/f.png)
+![CS-GO-Message-Generator](img/f.PNG)
 
 * ```playerradio PinnedDown helpppp```
 <br />
@@ -66,5 +66,5 @@ For example:
 * ```playerradio ScaredEmote wrrrrr```
 <br />
 
-![CS-GO-Message-Generator](img/t.png)
+![CS-GO-Message-Generator](img/t.PNG)
 
