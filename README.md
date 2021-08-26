@@ -56,14 +56,14 @@ For example:
 * ```playerradio DeathCry Hello```
 
 ![CS-GO-Message-Generator](img/f.PNG)
-<br /><br />
+<br /><br /><br />
 
 * ```playerradio PinnedDown helpppp```
 
 ![CS-GO-Message-Generator](img/s.png)
-<br /><br />
+<br /><br /><br />
 
 * ```playerradio ScaredEmote wrrrrr```
 
 ![CS-GO-Message-Generator](img/t.PNG)
-<br /><br />
+<br /><br /><br />
