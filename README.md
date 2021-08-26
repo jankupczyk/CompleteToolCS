@@ -26,3 +26,5 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 | 0x02          | Pure red         | Red              |
 | 0x08          | Grey             | CT               |
 | NaN           | 0                | 0                | 
+
+
