@@ -58,20 +58,10 @@ Includes:
 | playerradio       | GoingToGuardLooseBomb           |
 | playerradio       | WaitingForHumanToDefuseBomb     |
 | playerradio       | ScaredEmote                     |
-| playerradio       | ScaredEmote                     |
-| playerradio       | ScaredEmote                     |
-| playerradio       | ScaredEmote                     |
-| playerradio       | ScaredEmote                     |
-| playerradio       | ScaredEmote                     |
-| playerradio       | ScaredEmote                     |
-
-
-
-
-
-
-
-
+| playerradio       | OneEnemyLeft                    |
+| playerradio       | TwoEnemiesLeft                  |
+| playerradio       | ThreeEnemiesLeft                |
+| playerradio       | PinnedDown                      |
 
 
 <br />
