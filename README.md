@@ -11,6 +11,7 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 <br />
 <br />
 <br />
+<br />
 
 #### COLORS
 
@@ -31,12 +32,11 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 | 0x08          | Grey             | CT               |
 | NaN           | 0                | 0                | 
 
-
 <br />
 <br />
 <br />
 <br />
-
+<br />
 
 #### RADIO COMMANDS
 
