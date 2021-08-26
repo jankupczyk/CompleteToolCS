@@ -54,8 +54,11 @@ Includes:
 For example:
 
 * ```playerradio DeathCry Hello```
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Command 1")
+![alt text](https://github.com/jankupczyk/CS-GO-Message-Generator/tree/main/img/1.PNG "Command 1")
 
 * ```playerradio PinnedDown helpppp```
+![alt text](https://github.com/jankupczyk/CS-GO-Message-Generator/tree/main/img/2.PNG "Command 2")
+
 * ```playerradio ScaredEmote wrrrrr```
+![alt text](https://github.com/jankupczyk/CS-GO-Message-Generator/tree/main/img/3.PNG "Command 3")
 
