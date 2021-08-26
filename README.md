@@ -11,7 +11,7 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 ##COLORS
 
 | VALUE         | Color         | Name             |
-| ------------- |:-------------:| -----:           |
+| ------------- |:-------------:| :---------------:|
 | 0x07          | RED           | Covert           |
 | 0x10          | GOLD          | Exceedingly Rare |
 | zebra stripes | are neat      |    $1            | 
