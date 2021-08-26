@@ -10,7 +10,7 @@ Simple message generator for Counter-Strike: Global Offensive,  generates ready 
 
 ##COLORS
 
-| VALUE         | Color           | Name             |
+| VALUE         | Color           | Rarity           |
 | ------------- |:---------------:| :---------------:|
 | 0x07          | RED             | Covert           |
 | 0x10          | GOLD            | Exceedingly Rare |
