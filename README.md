@@ -18,7 +18,6 @@ Includes:
 <br />
 <br />
 <br />
-<br />
 
 #### COLORS
 
@@ -39,7 +38,6 @@ Includes:
 | 0x08          | Grey             | CT               |
 | NaN           | 0                | 0                | 
 
-<br />
 <br />
 <br />
 <br />
