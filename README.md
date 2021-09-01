@@ -21,7 +21,7 @@ Includes:
 
 #### COLORS
 
-| VALUE         | Color            | Rarity           |
+| VALUE ASCII   | Color            | Rarity           |
 | ------------- |:----------------:| :---------------:|
 | 0x07          | RED              | Covert           |
 | 0x10          | GOLD             | Exceedingly Rare |
