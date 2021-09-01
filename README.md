@@ -1,4 +1,4 @@
-# CS-GO-Message-Generator
+# CompleteToolCS
 Simple message generator for Counter-Strike: Global Offensive,  generates ready-to-use commands (based on Source engine {C++}).
 ---
 Includes:
