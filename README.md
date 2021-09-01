@@ -5,6 +5,7 @@ Includes:
 #### COMMANDS 
 #### COLORS 
 #### RADIO COMMANDS
+#### VERSION
 ---
 
 
@@ -85,3 +86,6 @@ For example:
 
 ![CS-GO-Message-Generator](img/t.PNG)
 <br /><br /><br />
+
+#### VERSION
+<b>V 1.3</b>
