@@ -4,11 +4,12 @@ const copyoutput = () => {
     let knfglv = document.getElementById("knfglv").checked ? "★" : "";
     let paint = document.getElementById("paint").value;
     let stattrak = document.getElementById("stattrak").checked ? " StatTrak™" : "";
+    let intrade = document.getElementById("intrade").checked ? "has received in trade " : "has opened a container and found ";
     let rarity = String.fromCharCode(eval(document.getElementById("rarity").value));
 
     let input = document.getElementById("end");
     input.value =
-        `playerradio Radio.WePlanted "\u2028\x03\x03${name} \x01has opened a container and found: ${rarity}${knfglv}${stattrak} ${item} | ${paint}"`;
+        `playerradio Radio.WePlanted "\u2028\x03\x03${name} \x01${intrade}: ${rarity}${knfglv}${stattrak} ${item} | ${paint}"`;
     input.select();
     input.setSelectionRange(0, input.value.length)
     document.execCommand("copy");
