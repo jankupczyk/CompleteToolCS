@@ -23,9 +23,9 @@ Includes:
 
 | VALUE ASCII   | Color            | Rarity           | EM                                                              |
 | ------------- |:----------------:| :---------------:|:---------------------------------------------------------------:|   
-| 0x07          | RED              | Covert           | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x10          | GOLD             | Exceedingly Rare | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x0E          | Pinkish purple   | Classified       | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x07          | RED              | Covert           | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) |
+| 0x10          | GOLD             | Exceedingly Rare | ![#eda338](https://via.placeholder.com/15/eda338/000000?text=+) |
+| 0x0E          | Pinkish purple   | Classified       | ![#9e1ead](https://via.placeholder.com/15/9e1ead/000000?text=+) |
 | 0x0C          | Dark blue        | Mil-Spec         | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
 | 0x0B          | Light blue       | Industrial grade | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
 | 0x0A          | White            | Consumer grade   | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
