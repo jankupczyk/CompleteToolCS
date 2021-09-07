@@ -26,16 +26,16 @@ Includes:
 | 0x07          | RED              | Covert           | ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) |
 | 0x10          | GOLD             | Exceedingly Rare | ![#eda338](https://via.placeholder.com/15/eda338/000000?text=+) |
 | 0x0E          | Pinkish purple   | Classified       | ![#9e1ead](https://via.placeholder.com/15/9e1ead/000000?text=+) |
-| 0x0C          | Dark blue        | Mil-Spec         | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x0B          | Light blue       | Industrial grade | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x0A          | White            | Consumer grade   | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x03          | Yellow           | Chat color       | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x04          | Darker green     | Green            | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x05          | Light Green      | Green            | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x06          | Orginal Green    | Green            | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x0f          | Light red        | Red              | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x02          | Pure red         | Red              | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
-| 0x08          | Grey             | CT               | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x0C          | Dark blue        | Mil-Spec         | ![#00008B](https://via.placeholder.com/15/00008B/000000?text=+) |
+| 0x0B          | Light blue       | Industrial grade | ![#68a3e5](https://via.placeholder.com/15/68a3e5/000000?text=+) |
+| 0x0A          | White            | Consumer grade   | ![#f0f8ff](https://via.placeholder.com/15/f0f8ff/000000?text=+) |
+| 0x03          | Yellow           | Chat color       | ![#ffdf93](https://via.placeholder.com/15/ffdf93/000000?text=+) |
+| 0x04          | Darker green     | Green            | ![#00C301](https://via.placeholder.com/15/00C301/000000?text=+) |
+| 0x05          | Light Green      | Green            | ![#95F985](https://via.placeholder.com/15/95F985/000000?text=+) |
+| 0x06          | Orginal Green    | Green            | ![#4DED30](https://via.placeholder.com/15/4DED30/000000?text=+) |
+| 0x0f          | Light red        | Red              | ![#eb4b4b](https://via.placeholder.com/15/eb4b4b/000000?text=+) |
+| 0x02          | Pure red         | Red              | ![#ff0001](https://via.placeholder.com/15/ff0000/000000?text=+) |
+| 0x08          | Grey             | CT               | ![#c1c6cc](https://via.placeholder.com/15/c1c6cc/000000?text=+) |
 | NaN           | 0                | 0                | 0                                                               |
 
 <br />
