@@ -23,7 +23,7 @@ Includes:
 
 | VALUE ASCII   | Color            | Rarity           | EM                  |
 | ------------- |:----------------:| :---------------:|:-------------------:|   
-| 0x07          | RED              | Covert           | - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`                    |
+| 0x07          | RED              | Covert           | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)                    |
 | 0x10          | GOLD             | Exceedingly Rare |
 | 0x0E          | Pinkish purple   | Classified       |
 | 0x0C          | Dark blue        | Mil-Spec         |
@@ -40,7 +40,6 @@ Includes:
 
 <br />
 <br />
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 <br />
 
 #### RADIO COMMANDS
