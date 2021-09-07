@@ -34,7 +34,7 @@ Includes:
 | 0x05          | Light Green      | Green            | ![#95F985](https://via.placeholder.com/15/95F985/000000?text=+) |
 | 0x06          | Orginal Green    | Green            | ![#4DED30](https://via.placeholder.com/15/4DED30/000000?text=+) |
 | 0x0f          | Light red        | Red              | ![#eb4b4b](https://via.placeholder.com/15/eb4b4b/000000?text=+) |
-| 0x02          | Pure red         | Red              | ![#ff0001](https://via.placeholder.com/15/ff0000/000000?text=+) |
+| 0x02          | Pure red         | Red              | ![#ff0001](https://via.placeholder.com/15/ff0001/000000?text=+) |
 | 0x08          | Grey             | CT               | ![#c1c6cc](https://via.placeholder.com/15/c1c6cc/000000?text=+) |
 | NaN           | 0                | 0                | 0                                                               |
 
