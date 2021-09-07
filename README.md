@@ -21,22 +21,22 @@ Includes:
 
 #### COLORS
 
-| VALUE ASCII   | Color            | Rarity           | EM                  |
-| ------------- |:----------------:| :---------------:|:-------------------:|   
-| 0x07          | RED              | Covert           | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)                    |
-| 0x10          | GOLD             | Exceedingly Rare |
-| 0x0E          | Pinkish purple   | Classified       |
-| 0x0C          | Dark blue        | Mil-Spec         |
-| 0x0B          | Light blue       | Industrial grade |
-| 0x0A          | White            | Consumer grade   |
-| 0x03          | Yellow           | Chat color       |
-| 0x04          | Darker green     | Green            | 
-| 0x05          | Light Green      | Green            |
-| 0x06          | Orginal Green    | Green            |
-| 0x0f          | Light red        | Red              |
-| 0x02          | Pure red         | Red              |
-| 0x08          | Grey             | CT               |
-| NaN           | 0                | 0                | 
+| VALUE ASCII   | Color            | Rarity           | EM                                                              |
+| ------------- |:----------------:| :---------------:|:---------------------------------------------------------------:|   
+| 0x07          | RED              | Covert           | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x10          | GOLD             | Exceedingly Rare | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x0E          | Pinkish purple   | Classified       | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x0C          | Dark blue        | Mil-Spec         | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x0B          | Light blue       | Industrial grade | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x0A          | White            | Consumer grade   | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x03          | Yellow           | Chat color       | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x04          | Darker green     | Green            | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x05          | Light Green      | Green            | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x06          | Orginal Green    | Green            | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x0f          | Light red        | Red              | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x02          | Pure red         | Red              | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| 0x08          | Grey             | CT               | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) |
+| NaN           | 0                | 0                | 0                                                               |
 
 <br />
 <br />
