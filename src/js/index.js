@@ -4,7 +4,7 @@ const copyoutput = () => {
     let knfglv = document.getElementById("knfglv").checked ? "★" : "";
     let paint = document.getElementById("paint").value;
     let stattrak = document.getElementById("stattrak").checked ? " StatTrak™" : "";
-    let intrade = document.getElementById("intrade").checked ? "has received in trade " : "has opened a container and found ";
+    let intrade = document.getElementById("intrade").checked ? "has received in trade" : "has opened a container and found";
     let rarity = String.fromCharCode(eval(document.getElementById("rarity").value));
 
     let input = document.getElementById("end");
