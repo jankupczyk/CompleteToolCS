@@ -100,5 +100,6 @@ For example:
 | V 0.5   | :x:                |
 | V 0.1   | :x:                |
 
-####### CURRENT VERSION
+# CURRENT VERSION
+
 <b>V 1.3</b>
