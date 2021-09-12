@@ -87,9 +87,6 @@ For example:
 ![CS-GO-Message-Generator](img/t.PNG)
 <br /><br /><br />
 
-#### VERSION
-<b>V 1.3</b>
-
 
 ### Supported Versions
 
@@ -100,6 +97,4 @@ For example:
 | V 0.5   | :x:                |
 | V 0.1   | :x:                |
 
-# CURRENT VERSION
-
-<b>V 1.3</b>
+CURRENT VERSION: <b>V 1.3</b>
