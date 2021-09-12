@@ -90,7 +90,7 @@ For example:
 
 ### Supported Versions
 
-| Version | Supported          | Features added                             | Date       | Works in game?     |
+| Version | Supported {code}   | Features added                             | Date       | Works in game?     |
 |:-------:|:------------------:| ------------------------------------------ |:----------:|:------------------:|
 | V 1.3   | :white_check_mark: | *Received in trade™*                       | 05/09/2021 | :heavy_check_mark: |
 | V 1.0   | :white_check_mark: | *Radio commands*                           | 27/08/2021 | :heavy_check_mark: |
