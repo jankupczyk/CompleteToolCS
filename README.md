@@ -90,11 +90,11 @@ For example:
 
 ### Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| V 1.3   | :white_check_mark: |
-| V 1.0   | :white_check_mark: |
-| V 0.5   | :x:                |
-| V 0.1   | :x:                |
+| Version | Supported          | Date       |
+| ------- | ------------------ | ---------- |
+| V 1.3   | :white_check_mark: |            |
+| V 1.0   | :white_check_mark: |            |
+| V 0.5   | :x:                | 29/06/2021 |
+| V 0.1   | :x:                | 27/06/2021 |
 
 CURRENT VERSION: <b>V 1.3</b>
