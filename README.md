@@ -89,3 +89,13 @@ For example:
 
 #### VERSION
 <b>V 1.3</b>
+
+
+## Supported Versions
+
+| Version | Supported          |
+| ------- | ------------------ |
+| V 1.3   | :white_check_mark: |
+| V 1.0   | :white_check_mark: |
+| V 0.5   | :white_check_mark: |
+| V 0.1   | :x:                |
