@@ -90,16 +90,6 @@ For example:
 
 ### Supported Versions
 
-| Version | Supported          | Date       |
-| ------- | ------------------ | ---------- |
-| V 1.3   | :white_check_mark: | 05/09/2021 |
-| V 1.0   | :white_check_mark: | 27/08/2021 |
-| V 0.5   | :x:                | 29/06/2021 |
-| V 0.1   | :x:                | 27/06/2021 |
-
-CURRENT VERSION: <b>V 1.3</b>
-
-
 | Version | Supported          | Features added                             | Date       | Status             |
 | ------- | ------------------ | ------------------------------------------ | ---------- | ------------------ |
 | V 1.3   | :white_check_mark: | *Received in trade™*                       | 05/09/2021 | :heavy_check_mark: |
@@ -107,3 +97,5 @@ CURRENT VERSION: <b>V 1.3</b>
 | V 0.5   | :x:                | *Fake VAC message*                         | 29/06/2021 | :heavy_check_mark: |
 | V 0.1   | :x:                | *Colorful text*                            | 28/06/2021 | :heavy_check_mark: |
 | V 0.01  | :x:                | *Release of CompleteToolCS*                | 27/06/2021 | :heavy_check_mark: |
+
+CURRENT VERSION: <b>V 1.3</b>
