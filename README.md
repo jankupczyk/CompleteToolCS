@@ -8,7 +8,7 @@ Includes:
 #### VERSION
 ---
 
-Thanks to this generator u can send fake unboxed knife messages, colorful text in-game chat, custom non-know radio binds, fake VAC ban messages, etc...
+Thanks to this generator u can send fake unboxed knife messages, colorful text in-game chat, custom non-know radio binds, fake VAC ban messages or even more, etc...
 
 Feel free to use it!!! :smile::smile::smile:
 
