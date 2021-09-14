@@ -8,6 +8,9 @@ Includes:
 #### VERSION
 ---
 
+Thanks to this generator u can send fake unboxed knife messages, colorful text in-game chat, custom non-know radio binds, fake VAC ban messages, etc...
+Feel free to use it :smile: :smile:
+
 
 #### COMMANDS
 
@@ -18,7 +21,6 @@ Includes:
 <br />
 <br />
 <br />
-
 #### COLORS
 
 | VALUE ASCII   | Color            | Rarity           | EM                                                              |
