@@ -10,7 +10,7 @@ Includes:
 
 Thanks to this generator u can send fake unboxed knife messages, colorful text in-game chat, custom non-know radio binds, fake VAC ban messages, etc...
 
-Feel free to use it :smile::smile::smile:
+Feel free to use it!!! :smile::smile::smile:
 
 
 #### COMMANDS
