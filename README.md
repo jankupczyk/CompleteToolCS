@@ -40,7 +40,7 @@ Feel free to use it!!! :smile::smile::smile:
 | 0x0f          | Light red        | Red              | ![#eb4b4b](https://via.placeholder.com/15/eb4b4b/000000?text=+) |
 | 0x02          | Pure red         | Red              | ![#ff0001](https://via.placeholder.com/15/ff0001/000000?text=+) |
 | 0x08          | Grey             | CT               | ![#c1c6cc](https://via.placeholder.com/15/c1c6cc/000000?text=+) |
-| NaN           | 0                | 0                | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) |
+| NaN           | 0                | 0                | ![#nan](https://via.placeholder.com/15/nan/000000?text=+) |
 
 <br />
 <br />
