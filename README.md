@@ -22,6 +22,7 @@ Feel free to use it!!! :smile::smile::smile:
 <br />
 <br />
 <br />
+
 #### COLORS
 
 | VALUE ASCII   | Color            | Rarity           | EM                                                              |
